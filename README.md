@@ -1,16 +1,1 @@
-# flutter_widgets
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository contains a collection of simple Flutter widget examples that demonstrate the basic concepts of Flutter UI development, including StatelessWidget, StatefulWidget, MaterialApp, Scaffold, AppBar, Drawer, ListView, GridView, TextField, FloatingActionButton, BottomNavigationBar, ClipRRect, SizedBox, Container, and RichText. Each example is created in a separate Dart file for easy understanding and testing. The project is designed for beginners who want to learn how different Flutter widgets work in a clean and organized structure. Simply clone the repository, run flutter pub get, and launch the app using flutter run to explore each example.
